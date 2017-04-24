@@ -1,5 +1,5 @@
 var eraser_radius = 6;
-var stroke_width = 3;
+var stroke_width = 2;
 var line = d3.svg.line();
 var paths = [];
 var erase_path = {};
